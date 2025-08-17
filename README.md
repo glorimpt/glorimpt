@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there , I'm Sarthak
+---
+I focus more towards web development. And I publish small projects to learn. 
 
-<!--
-**gloriumptious/gloriumptious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I may help you in CSS and JS and maybe, in React or Node in future. Arduino programming is one of my learnings.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Please feel free to contribute.
+
+---
+
+**glorimpt** - It is an altered version of the word "gloriumptious" by Roald Dahl.
+
+**Profile Picture**: NASA/ESA Hubble Space Telescope; courtesy of STScI.
+No affiliation or endorsement implied.
