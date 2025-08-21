@@ -10,7 +10,5 @@ I may help you in CSS and JS and maybe, in React or Node in future. Arduino prog
 
 ---
 
-**glorimpt** - It is an altered version of the word "gloriumptious" by Roald Dahl.
-
 **Profile Picture**: NASA/ESA Hubble Space Telescope; courtesy of STScI.
 No affiliation or endorsement implied.
